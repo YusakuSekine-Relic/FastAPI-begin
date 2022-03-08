@@ -17,4 +17,4 @@ RUN pip install fastapi uvicorn
 
 EXPOSE 8000
 # FastAPIを8000ポートで待機
-CMD ["uvicorn", "opt.main:app", "--reload", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app.main:app", "--reload", "--host", "0.0.0.0", "--port", "8000"]
