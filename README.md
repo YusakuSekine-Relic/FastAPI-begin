@@ -1,4 +1,4 @@
-# FastAPI_begin
+# FastAPI-begin
 
 ## Set Up
 1. git clone git@github.com:YusakuSekine-Relic/FastAPI_begin.git
